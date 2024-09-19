@@ -2,3 +2,4 @@
 ## Hello H2
 ### Hello H3
 ###### Hi super small
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
